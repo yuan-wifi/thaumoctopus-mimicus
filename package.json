@@ -1,0 +1,36 @@
+{
+    "name": "thaumoctopus-mimicus",
+    "version": "0.0.0",
+    "description": "Isomorphic JavaScript application example",
+    "main": "./dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1 "
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yuan-wifi/thaumoctopus-mimicus.git"
+    },
+    "keywords": [
+        "isomorphic",
+        "javascript"
+    ],
+    "author": "yuan",
+    "license": "MIT",
+    "dependencies": {
+        "hapi": ""
+    },
+    "bugs": {
+        "url": "https://github.com/yuan-wifi/thaumoctopus-mimicus/issues"
+    },
+    "homepage": "https://github.com/yuan-wifi/thaumoctopus-mimicus",
+    "devDependencies": {
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-preset-es2015": "^6.24.1",
+        "gulp": "^3.9.1",
+        "gulp-babel": "^7.0.1",
+        "gulp-nodemon": "^2.4.2",
+        "run-sequence": "^2.2.1"
+    }
+}
